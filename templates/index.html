@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>EduGenie</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🎓 EduGenie</h1>
+
+<p>Your AI Powered Learning Assistant</p>
+
+<textarea
+id="question"
+placeholder="Ask anything..."></textarea>
+
+<div class="buttons">
+
+<button onclick="sendRequest('ask')">
+<i class="fa-solid fa-question"></i>
+Ask Question
+</button>
+
+<button onclick="sendRequest('explain')">
+<i class="fa-solid fa-book"></i>
+Explain
+</button>
+
+<button onclick="sendRequest('quiz')">
+<i class="fa-solid fa-list-check"></i>
+Generate Quiz
+</button>
+
+<button onclick="sendRequest('summary')">
+<i class="fa-solid fa-file-lines"></i>
+Summarize
+</button>
+
+<button onclick="sendRequest('roadmap')">
+<i class="fa-solid fa-road"></i>
+Roadmap
+</button>
+
+</div>
+
+<div id="loading">
+🤖 Thinking...
+</div>
+
+<h2>Response</h2>
+
+<div id="response">
+
+Waiting for your question...
+
+</div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script src="/static/script.js"></script>
+
+</body>
+
+</html>
