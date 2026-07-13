@@ -1,25 +1,24 @@
-# EduGenie – Google Gemini Powered Learning Assistant
+ EduGenie – Google Gemini Powered Learning Assistant
 
-## 📚 Overview
+ Overview
 
 EduGenie is an AI-powered learning assistant built using **Google Gemini AI** to provide personalized educational support. It helps students learn more effectively by answering academic questions, explaining complex concepts, generating study materials, and offering interactive learning experiences through natural language conversations.
 
 ---
+ Features
 
-## 🚀 Features
-
-* 🤖 AI-powered question answering using Google Gemini
-* 📖 Personalized learning assistance
-* 📝 Summarization of notes and study materials
-* 💡 Concept explanations with simple examples
-* 📋 Quiz and practice question generation
-* 🌐 User-friendly web interface
-* ⚡ Fast and accurate responses
-* 📱 Responsive design for desktop and mobile
+*  AI-powered question answering using Google Gemini
+*  Personalized learning assistance
+*  Summarization of notes and study materials
+*  Concept explanations with simple examples
+*  Quiz and practice question generation
+*  User-friendly web interface
+*  Fast and accurate responses
+*  Responsive design for desktop and mobile
 
 ---
 
-## 🛠️ Technologies Used
+  Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Python (Flask)
@@ -28,7 +27,7 @@ EduGenie is an AI-powered learning assistant built using **Google Gemini AI** to
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 ```
 EduGenie/
@@ -48,7 +47,7 @@ EduGenie/
 
 ---
 
-## ⚙️ Installation
+ Installation
 
 1. Clone the repository:
 
@@ -108,7 +107,7 @@ http://localhost:5000
 
 ---
 
-## 🎯 Use Cases
+ Use Cases
 
 * Student doubt solving
 * Assignment assistance
@@ -119,7 +118,7 @@ http://localhost:5000
 
 ---
 
-## 🔒 Future Enhancements
+ Future Enhancements
 
 * Voice-based interaction
 * Multi-language support
@@ -130,19 +129,19 @@ http://localhost:5000
 
 ---
 
-## 🤝 Contributing
+ Contributing
 
 Contributions are welcome. Fork the repository, create a feature branch, commit your changes, and submit a pull request.
 
 ---
 
-## 📄 License
+ License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+ Author
 
 **Bhuma Siva Sai Badal**
 
@@ -150,7 +149,7 @@ AI Enthusiast | Full Stack Developer | Machine Learning Learner
 
 ---
 
-## ⭐ Acknowledgements
+ Acknowledgements
 
 * Google Gemini API
 * Flask Framework
